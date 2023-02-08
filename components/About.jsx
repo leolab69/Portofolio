@@ -16,22 +16,20 @@ const About = () => {
             Développeur  curieux, créatif et rigoureux 👩‍💻
           </p>
           <p className='py-2 text-gray-300'>
-            Ayant travailler dans divers domaines, j'ai décidé de me convertir dans ce métier incroyable qu'est{' '}
-            <span className='font-bold'>développeur web et mobile ! </span>{' '}
+            Ayant travailler dans divers domaines, j'ai décidé de me convertir en tant que{' '}
+            <span className='font-bold'>développeur Wordpress ! </span>{' '}
             <br />
             Pour me former, j'ai commencé avec une première formation de de developpeur web à Webforce 3 en 2021. Par la suite, j'ai choisi la Wild Code School à Lyon, qui proposait
-            une formation intensive "développeur web et mobile",
-            certifiée BAC +2. <br />
+            une formation intensive "développeur web et mobile"
+            en 5 mois. <br />
             La formation repose sur la théorie mais surtout la pratique
             intensive : maquettage, intégration et développement de projets en
             Javascript / React pour la partie front-end et Node.js pour le
-            back-end. <br /> Je continue d'apprendre également à modéliser les bases de
-            données Sql avec Express et Prisma, créer des API REST et à tester
-            le code avec Cypress.
+            back-end. <br /> Je souhaite aujourd'hui, continuer à acquérir des compétences en me penchant vers une nouvelle formation en alternance spécialement sur <span className='font-bold'>Wordpress ! </span>{' '} <br /> C'est une formation qui propose d'être 3 jours en entrerprise et 2 jours en cours par semaine sur 18 mois. <br /> Les cours me permettront de créer des site de manière efficace, personnaliser des thèmes et plugins, optimiser les performances ainsi que réaliser la maintenance de sites déjà existants et gérer un projet web de A à Z.
           </p>
           <p className='py-2 text-gray-300'>
             De nature curieux et technophile, j'ai un attraît pour le digital
-            depuis mon enfance. <br /> J'exerce à coté, le métier de DJ/producteur à mon compte. Je suis co-fondateur du collectif FMR et je fais parti des artistes de l'agence de booking Je...Demain. De ce fait, j'ai développé une sensibilité
+            depuis mon enfance. <br /> J'exerce à coté, le métier de DJ/producteur à mon compte. Je suis organisateur d'évènements et je fais parti des artistes de l'agence de booking Je...Demain. De ce fait, j'ai développé une sensibilité
             créative. <br />
             Enfin, j'ai une appétence pour les challenges, la production musicale et les jeux en équipe. <br />
             C'est donc naturellement que je me suis orienté vers ce métier du web, à la fois technique, créatif et stimulant

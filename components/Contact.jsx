@@ -42,10 +42,9 @@ const Contact = () => {
               </div>
               <div>
                 <h2 className='py-2'>Léo Laborie</h2>
-                <p>Développeur web et mobile junior</p>
+                <p>Développeur web et mobile junior / Wordpress</p>
                 <p className='py-4'>
-                  Je suis disponible à Lyon à
-                  partir de septembre 2022 pour un contrat d'apprentissage d'un an.
+                  Je suis disponible pour un entretien 👍 
                 </p>
               </div>
               <div>
@@ -72,7 +71,7 @@ const Contact = () => {
                       <AiOutlineMail />
                     </a>
                   </Link>
-                  <Link href='https://drive.google.com/file/d/1Syr5TmuC-kDpaPVU-2qiWQok97mVHI4q/view?usp=sharing'>
+                  <Link href='https://drive.google.com/file/d/1OnEV4F54ehQKyZkVc4RQHO6WGQajCyv9/view?usp=share_link'>
                     <a
                       className='rounded-full shadow-lg shadow-gray-400 p-6 cursor-pointer hover:scale-110 ease-in duration-300'
                       target='_blank'
