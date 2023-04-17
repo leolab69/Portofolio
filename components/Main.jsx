@@ -51,7 +51,7 @@ const Main = () => {
               </Link>
               , je souhaite vivement continuer mon apprentissage avec une{' '}
               <span className='font-bold'>alternance</span>{' '}
-               au printemps avec {' '}
+               cette année avec {' '}
               <Link href='https://openclassrooms.com/fr/paths/595-developpeur-wordpress'>
                 <a
                   className='text-[#fda47e] font-bold hover:text-[#abe0ff]'
